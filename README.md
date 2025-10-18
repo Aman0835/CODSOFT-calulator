@@ -26,7 +26,7 @@ This calculator features a clean UI, smooth gradients, and responsive design —
 
 ## 📸 Preview
 
-## ![Calculator Preview](https://aman-calulator.vercel.app/)
+## ![![alt text](image.png)](https://aman-calulator.vercel.app/)
 
 ## ⚙️ Installation & Setup
 
